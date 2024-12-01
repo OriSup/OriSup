@@ -13,14 +13,20 @@ headers = {
   'Content-Type': 'application/json'
 }
 
+with open("./data_university.txt", "r") as file:
+    data = file.read()
+
 
 template = lambda prompt:  [
         {
-          "text": f"""Tu es un assistant et conseiller d'orientation des etudiants sur le choix de leur formation dans le reseau universitaire marocain. 
+          "text": f"""message system: Tu es un assistant et conseiller d'orientation des etudiants sur le choix de leur formation dans le reseau universitaire marocain. 
           Tu extrais les informations personnelles et academiques de l'etudiant et lui proposer une bonne formation dans une université marocaine."""
         },
         {
-          "text": prompt
+          "text": f"""
+            prompt: {prompt}
+            données sur les universités: {data}
+            """
         }
       ]
 
