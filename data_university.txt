@@ -32,6 +32,15 @@ ump university
         Licences professionnelles :{ Informatique, Génie industriel, Sciences des matériaux}
     ]
 
+    ENIAD( Ecole Nationale de l'Intelligence artificialle et digital): [
+        Ingénierie: {
+            Intelligence artificialle: {}
+            Genie Informatique: {}
+            Robotique et objet connecté: {}
+            Reseau et securité: {}
+        }
+    ]
+
 }
 
 ENSIAS:
