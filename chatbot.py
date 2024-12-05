@@ -7,7 +7,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Assistant Universitaire",
-    page_icon="logo_orisup.jpg",  
+    page_icon="img/logo_orisup.jpg",  
     layout="centered",
     initial_sidebar_state="auto"
 )
