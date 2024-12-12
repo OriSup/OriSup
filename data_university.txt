@@ -1,61 +1,1756 @@
-ump university
+[
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences",
+        "program": "Licence Fondamentale",
+        "specialty": "MIP - Informatique et Informatique Appliquée"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences",
+        "program": "Licence Fondamentale",
+        "specialty": "Sciences Mathématiques et Applications"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences",
+        "program": "Licence Fondamentale",
+        "specialty": "Sciences de la Matière Physique"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences",
+        "program": "Licence Fondamentale",
+        "specialty": "Science de la Matière Chimie"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences",
+        "program": "Licence Fondamentale",
+        "specialty": "Sciences de la Vie"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences",
+        "program": "Licence Fondamentale",
+        "specialty": "Sciences de la Terre et de l'Univers"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences",
+        "program": "Licence Fondamentale",
+        "specialty": "Cahiers des Normes Pédagogiques Nationales"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences Juridiques, Économiques et Sociales",
+        "program": "Licences Fondamentale",
+        "specialty": "Langues"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences Juridiques, Économiques et Sociales",
+        "program": "Licences Fondamentale",
+        "specialty": "Littérature"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences Juridiques, Économiques et Sociales",
+        "program": "Licences Fondamentale",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences Juridiques, Économiques et Sociales",
+        "program": "Licences Fondamentale",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences Juridiques, Économiques et Sociales",
+        "program": "Masters",
+        "specialty": "Traduction"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences Juridiques, Économiques et Sociales",
+        "program": "Masters",
+        "specialty": "Tourisme"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté des Sciences Juridiques, Économiques et Sociales",
+        "program": "Masters",
+        "specialty": "Patrimoine culturel"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Nationale des Sciences Appliquées",
+        "program": "Diplômes d’ingénieur",
+        "specialty": "Génie civil"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Nationale des Sciences Appliquées",
+        "program": "Diplômes d’ingénieur",
+        "specialty": "Génie informatique"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Nationale des Sciences Appliquées",
+        "program": "Diplômes d’ingénieur",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Diplômes d’ingénieur",
+        "specialty": "Commerce international"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Diplômes d’ingénieur",
+        "specialty": "Gestion financière"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Diplômes d’ingénieur",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "Faculté de Médecine et de Pharmacie",
+        "program": "Diplôme de Docteur",
+        "specialty": "Médecine générale"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Supérieure de Technologie",
+        "program": "Licences professionnelles",
+        "specialty": "Informatique"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Supérieure de Technologie",
+        "program": "Licences professionnelles",
+        "specialty": "Génie industriel"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "École Supérieure de Technologie",
+        "program": "Licences professionnelles",
+        "specialty": "Sciences des matériaux"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "ENIAD (Ecole Nationale de l'Intelligence Artificielle et Digital)",
+        "program": "Ingénierie",
+        "specialty": "Intelligence artificielle"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "ENIAD (Ecole Nationale de l'Intelligence Artificielle et Digital)",
+        "program": "Ingénierie",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "ENIAD (Ecole Nationale de l'Intelligence Artificielle et Digital)",
+        "program": "Ingénierie",
+        "specialty": "Robotique et objet connecté"
+    },
+    {
+        "university": "UMP University",
+        "faculty": "ENIAD (Ecole Nationale de l'Intelligence Artificielle et Digital)",
+        "program": "Ingénierie",
+        "specialty": "Réseau et sécurité"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENSIAS",
+        "program": "Ingénierie",
+        "specialty": "Génie Logiciel"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENSIAS",
+        "program": "Ingénierie",
+        "specialty": "Business Intelligence"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENSIAS",
+        "program": "Ingénierie",
+        "specialty": "Ingénierie e-Logistique"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENSIAS",
+        "program": "Ingénierie",
+        "specialty": "Ingénierie des Télécommunications et Réseaux"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENSIAS",
+        "program": "Ingénierie",
+        "specialty": "Systèmes Embarqués et Mobiles"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENSIAS",
+        "program": "Ingénierie",
+        "specialty": "Sécurité des Systèmes d'Information"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Génie des Procédés Industriels"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Génie Industriel"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Génie Minéral"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Modélisation et Informatique Scientifique"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "EMI",
+        "program": "Ingénierie",
+        "specialty": "Génie Réseaux et Télécommunications"
+    },
 {
-    Faculté des Sciences:
-    [
-        licence-fondamentale:{mip-informatique-et-informatique-appliquee,sciences-mathematiques-et-applications,sciences-de-la-matiere-physique,sciences-de-la-matiere-physique,science-de-la-matiere-chimie,sciences-de-la-vie,sciences-de-la-terre-et-de-lunivers,cahiers-des-normes-pedagogiques-nationales
-        }
-        licence-professionnelle:{}
-        master:{}
-        Doctorant:{}
-    ]
-
-    Faculté des Sciences Juridiques, Économiques et Sociales:
-    [
-        Licences-fondamentale :{ Langues, Littérature, Géographie, Histoire.}
-        Masters : {Traduction, Tourisme, Patrimoine culturel}
-    ]
-    École Nationale des Sciences Appliquées:
-    [
-        Diplômes d’ingénieur : {Génie civil, Génie informatique, Télécommunications}
-    ]
-
-    École Nationale de Commerce et de Gestion:[
-        Diplômes d’ingénieur { Commerce international, Gestion financière, Marketing}
-
-    ]
-
-    Faculté de Médecine et de Pharmacie:[{
-        Diplôme de Docteur:{ Médecine generale}
-    }]
-    École Supérieure de Technologie:[
-        Dut:{}
-        Licences professionnelles :{ Informatique, Génie industriel, Sciences des matériaux}
-    ]
-
-    ENIAD( Ecole Nationale de l'Intelligence artificialle et digital): [
-        Ingénierie: {
-            Intelligence artificialle: {}
-            Genie Informatique: {}
-            Robotique et objet connecté: {}
-            Reseau et securité: {}
-        }
-    ]
-
-}
-
-ENSIAS:
+        "university": "UM5 University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Droit"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Économie"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Sciences Politiques"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Littérature"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FST",
+        "program": "Sciences et Techniques",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FST",
+        "program": "Sciences et Techniques",
+        "specialty": "Physique"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FST",
+        "program": "Sciences et Techniques",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FST",
+        "program": "Sciences et Techniques",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "FST",
+        "program": "Sciences et Techniques",
+        "specialty": "Informatique"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "UM5 University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    }
 {
-    Génie Logiciel,Business Intelligence,Ingénierie e-Logistique,Ingénierie des Télécommunications et Réseaux,Systèmes Embarqués et Mobiles,Sécurité des Systèmes d'Information
+        "university": "UMI University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Physique"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Informatique"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Littérature"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Sociologie"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Droit"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Économie"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Sciences Politiques"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "UMI University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    },
+    {
+        "university": "UMI",
+        "faculty": "ENSAM Meknas",
+        "program": "Ingénierie",
+        "specialty": "Génie Mécanique et Structures"
+    },
+    {
+        "university": "UMI",
+        "faculty": "ENSAM Meknas",
+        "program": "Ingénierie",
+        "specialty": "Génie Industriel et Productique"
+    },
+    {
+        "university": "UMI",
+        "faculty": "ENSAM Meknas",
+        "program": "Ingénierie",
+        "specialty": "Génie Électromécanique"
+    },
+    {
+        "university": "UMI",
+        "faculty": "ENSAM Meknas",
+        "program": "Ingénierie",
+        "specialty": "Génie des Matériaux"
+    }
 
-}
 
-EMI:
+    {
+        "university": "UIZ University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Physique"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FS",
+        "program": "Sciences",
+        "specialty": "Informatique"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Littérature"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FLSH",
+        "program": "Lettres et Sciences Humaines",
+        "specialty": "Sociologie"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Droit"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Économie"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "FSJES",
+        "program": "Sciences Juridiques, Économiques et Sociales",
+        "specialty": "Sciences Politiques"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "ENCG",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "EST",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "EST",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "EST",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "UIZ University",
+        "faculty": "EST",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Industriel"
+    }{
+        "university": "UIZ University",
+        "faculty": "EST",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Informatique"
+    }
 {
-    Génie Civil,Génie des Procédés Industriels,Génie Électrique,Génie Industriel,Génie,Informatique,Génie Mécanique,Génie Minéral,Modélisation et Informatique Scientifique,Génie Réseaux et Télécommunications
-}
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences et Techniques",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences et Techniques",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences et Techniques",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences et Techniques",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences et Techniques",
+        "program": "Sciences et Techniques",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences et Techniques",
+        "program": "Sciences et Techniques",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences",
+        "program": "Sciences Fondamentales",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences",
+        "program": "Sciences Fondamentales",
+        "specialty": "Physique"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences",
+        "program": "Sciences Fondamentales",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences",
+        "program": "Sciences Fondamentales",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences",
+        "program": "Sciences Fondamentales",
+        "specialty": "Géologie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Sciences",
+        "program": "Sciences Fondamentales",
+        "specialty": "Biochimie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Sociologie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Psychologie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Philosophie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Langues et Littératures"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Commerce et Gestion",
+        "specialty": "Gestion des Ressources Humaines"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "École Nationale de Commerce et de Gestion",
+        "program": "Commerce et Gestion",
+        "specialty": "Logistique et Chaîne d'Approvisionnement"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté de Médecine et de Pharmacie",
+        "program": "Sciences de la Santé",
+        "specialty": "Médecine Générale"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté de Médecine et de Pharmacie",
+        "program": "Sciences de la Santé",
+        "specialty": "Pharmacie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté de Médecine et de Pharmacie",
+        "program": "Sciences de la Santé",
+        "specialty": "Dentisterie"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté de Médecine et de Pharmacie",
+        "program": "Sciences de la Santé",
+        "specialty": "Sciences Infirmières"
+    },
+    {
+        "university": "Université Hassan Ier de Settat",
+        "faculty": "Faculté de Médecine et de Pharmacie",
+        "program": "Sciences de la Santé",
+        "specialty": "Kinésithérapie"
+    }
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences Ben M'Sik",
+        "program": "Sciences Fondamentales",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences Ben M'Sik",
+        "program": "Sciences Fondamentales",
+        "specialty": "Physique"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences Ben M'Sik",
+        "program": "Sciences Fondamentales",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences Ben M'Sik",
+        "program": "Sciences Fondamentales",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences Ben M'Sik",
+        "program": "Sciences Fondamentales",
+        "specialty": "Géologie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences et Techniques de Mohammedia",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences et Techniques de Mohammedia",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences et Techniques de Mohammedia",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences et Techniques de Mohammedia",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences et Techniques de Mohammedia",
+        "program": "Sciences et Techniques",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Sciences et Techniques de Mohammedia",
+        "program": "Sciences et Techniques",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Ben M'Sik",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Sociologie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Ben M'Sik",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Psychologie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Ben M'Sik",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Ben M'Sik",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Ben M'Sik",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Philosophie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Ben M'Sik",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Langues et Littératures"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "École Nationale de Commerce et de Gestion de Casablanca",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "École Nationale de Commerce et de Gestion de Casablanca",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "École Nationale de Commerce et de Gestion de Casablanca",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "École Nationale de Commerce et de Gestion de Casablanca",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "École Nationale de Commerce et de Gestion de Casablanca",
+        "program": "Commerce et Gestion",
+        "specialty": "Gestion des Ressources Humaines"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "École Nationale de Commerce et de Gestion de Casablanca",
+        "program": "Commerce et Gestion",
+        "specialty": "Logistique et Chaîne d'Approvisionnement"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté de Médecine et de Pharmacie de Casablanca",
+        "program": "Sciences de la Santé",
+        "specialty": "Médecine Générale"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté de Médecine et de Pharmacie de Casablanca",
+        "program": "Sciences de la Santé",
+        "specialty": "Pharmacie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté de Médecine et de Pharmacie de Casablanca",
+        "program": "Sciences de la Santé",
+        "specialty": "Dentisterie"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté de Médecine et de Pharmacie de Casablanca",
+        "program": "Sciences de la Santé",
+        "specialty": "Sciences Infirmières"
+    },
+    {
+        "university": "Université Hassan II de Casablanca",
+        "faculty": "Faculté de Médecine et de Pharmacie de Casablanca",
+        "program": "Sciences de la Santé",
+        "specialty": "Kinésithérapie"
+    }
 
-ENSAM Meknas:
-{
-    Génie Mécanique et Structures,Génie Industriel et Productique,Génie Électromécanique,Génie des Matériaux et Ingénierie des Procédés de Fabrication 
-
-}
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences Semlalia",
+        "program": "Sciences Fondamentales",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences Semlalia",
+        "program": "Sciences Fondamentales",
+        "specialty": "Physique"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences Semlalia",
+        "program": "Sciences Fondamentales",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences Semlalia",
+        "program": "Sciences Fondamentales",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences Semlalia",
+        "program": "Sciences Fondamentales",
+        "specialty": "Géologie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences et Techniques de Guéliz",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences et Techniques de Guéliz",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences et Techniques de Guéliz",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences et Techniques de Guéliz",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences et Techniques de Guéliz",
+        "program": "Sciences et Techniques",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Sciences et Techniques de Guéliz",
+        "program": "Sciences et Techniques",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Sociologie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Psychologie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Philosophie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté des Lettres et des Sciences Humaines",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Langues et Littératures"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale des Sciences Appliquées de Marrakech",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale des Sciences Appliquées de Marrakech",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale des Sciences Appliquées de Marrakech",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale des Sciences Appliquées de Marrakech",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale des Sciences Appliquées de Marrakech",
+        "program": "Sciences Appliquées",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale des Sciences Appliquées de Marrakech",
+        "program": "Sciences Appliquées",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale de Commerce et de Gestion de Marrakech",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale de Commerce et de Gestion de Marrakech",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale de Commerce et de Gestion de Marrakech",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale de Commerce et de Gestion de Marrakech",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale de Commerce et de Gestion de Marrakech",
+        "program": "Commerce et Gestion",
+        "specialty": "Gestion des Ressources Humaines"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "École Nationale de Commerce et de Gestion de Marrakech",
+        "program": "Commerce et Gestion",
+        "specialty": "Logistique et Chaîne d'Approvisionnement"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté de Médecine et de Pharmacie de Marrakech",
+        "program": "Sciences de la Santé",
+        "specialty": "Médecine Générale"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté de Médecine et de Pharmacie de Marrakech",
+        "program": "Sciences de la Santé",
+        "specialty": "Pharmacie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté de Médecine et de Pharmacie de Marrakech",
+        "program": "Sciences de la Santé",
+        "specialty": "Dentisterie"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté de Médecine et de Pharmacie de Marrakech",
+        "program": "Sciences de la Santé",
+        "specialty": "Sciences Infirmières"
+    },
+    {
+        "university": "Université Cadi Ayyad de Marrakech",
+        "faculty": "Faculté de Médecine et de Pharmacie de Marrakech",
+        "program": "Sciences de la Santé",
+        "specialty": "Kinésithérapie"
+    }
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences et Techniques de Fès",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences et Techniques de Fès",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences et Techniques de Fès",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences et Techniques de Fès",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences et Techniques de Fès",
+        "program": "Sciences et Techniques",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences et Techniques de Fès",
+        "program": "Sciences et Techniques",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences Dhar El Mahraz",
+        "program": "Sciences Fondamentales",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences Dhar El Mahraz",
+        "program": "Sciences Fondamentales",
+        "specialty": "Physique"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences Dhar El Mahraz",
+        "program": "Sciences Fondamentales",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences Dhar El Mahraz",
+        "program": "Sciences Fondamentales",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Sciences Dhar El Mahraz",
+        "program": "Sciences Fondamentales",
+        "specialty": "Géologie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Dhar El Mahraz",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Sociologie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Dhar El Mahraz",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Psychologie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Dhar El Mahraz",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Dhar El Mahraz",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Dhar El Mahraz",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Philosophie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté des Lettres et des Sciences Humaines Dhar El Mahraz",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Langues et Littératures"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale des Sciences Appliquées de Fès",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale des Sciences Appliquées de Fès",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale des Sciences Appliquées de Fès",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale des Sciences Appliquées de Fès",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale des Sciences Appliquées de Fès",
+        "program": "Sciences Appliquées",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale des Sciences Appliquées de Fès",
+        "program": "Sciences Appliquées",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale de Commerce et de Gestion de Fès",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale de Commerce et de Gestion de Fès",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale de Commerce et de Gestion de Fès",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale de Commerce et de Gestion de Fès",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale de Commerce et de Gestion de Fès",
+        "program": "Commerce et Gestion",
+        "specialty": "Gestion des Ressources Humaines"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "École Nationale de Commerce et de Gestion de Fès",
+        "program": "Commerce et Gestion",
+        "specialty": "Logistique et Chaîne d'Approvisionnement"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté de Médecine et de Pharmacie de Fès",
+        "program": "Sciences de la Santé",
+        "specialty": "Médecine Générale"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté de Médecine et de Pharmacie de Fès",
+        "program": "Sciences de la Santé",
+        "specialty": "Pharmacie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté de Médecine et de Pharmacie de Fès",
+        "program": "Sciences de la Santé",
+        "specialty": "Dentisterie"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté de Médecine et de Pharmacie de Fès",
+        "program": "Sciences de la Santé",
+        "specialty": "Sciences Infirmières"
+    },
+    {
+        "university": "Université Sidi Mohamed Ben Abdellah de Fès",
+        "faculty": "Faculté de Médecine et de Pharmacie de Fès",
+        "program": "Sciences de la Santé",
+        "specialty": "Kinésithérapie"
+    }
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences de Tétouan",
+        "program": "Sciences Fondamentales",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences de Tétouan",
+        "program": "Sciences Fondamentales",
+        "specialty": "Physique"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences de Tétouan",
+        "program": "Sciences Fondamentales",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences de Tétouan",
+        "program": "Sciences Fondamentales",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences de Tétouan",
+        "program": "Sciences Fondamentales",
+        "specialty": "Géologie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences et Techniques de Tanger",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences et Techniques de Tanger",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences et Techniques de Tanger",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences et Techniques de Tanger",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences et Techniques de Tanger",
+        "program": "Sciences et Techniques",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Sciences et Techniques de Tanger",
+        "program": "Sciences et Techniques",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Tétouan",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Sociologie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Tétouan",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Psychologie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Tétouan",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Tétouan",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Tétouan",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Philosophie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Tétouan",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Langues et Littératures"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale des Sciences Appliquées de Tétouan",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale des Sciences Appliquées de Tétouan",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale des Sciences Appliquées de Tétouan",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale des Sciences Appliquées de Tétouan",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale des Sciences Appliquées de Tétouan",
+        "program": "Sciences Appliquées",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale des Sciences Appliquées de Tétouan",
+        "program": "Sciences Appliquées",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale de Commerce et de Gestion de Tétouan",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale de Commerce et de Gestion de Tétouan",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale de Commerce et de Gestion de Tétouan",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale de Commerce et de Gestion de Tétouan",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale de Commerce et de Gestion de Tétouan",
+        "program": "Commerce et Gestion",
+        "specialty": "Gestion des Ressources Humaines"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "École Nationale de Commerce et de Gestion de Tétouan",
+        "program": "Commerce et Gestion",
+        "specialty": "Logistique et Chaîne d'Approvisionnement"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté de Médecine et de Pharmacie de Tétouan",
+        "program": "Sciences de la Santé",
+        "specialty": "Médecine Générale"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté de Médecine et de Pharmacie de Tétouan",
+        "program": "Sciences de la Santé",
+        "specialty": "Pharmacie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté de Médecine et de Pharmacie de Tétouan",
+        "program": "Sciences de la Santé",
+        "specialty": "Dentisterie"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté de Médecine et de Pharmacie de Tétouan",
+        "program": "Sciences de la Santé",
+        "specialty": "Sciences Infirmières"
+    },
+    {
+        "university": "Université Abdelmalek Essaâdi de Tétouan",
+        "faculty": "Faculté de Médecine et de Pharmacie de Tétouan",
+        "program": "Sciences de la Santé",
+        "specialty": "Kinésithérapie"
+    }
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences de Kénitra",
+        "program": "Sciences Fondamentales",
+        "specialty": "Mathématiques"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences de Kénitra",
+        "program": "Sciences Fondamentales",
+        "specialty": "Physique"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences de Kénitra",
+        "program": "Sciences Fondamentales",
+        "specialty": "Chimie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences de Kénitra",
+        "program": "Sciences Fondamentales",
+        "specialty": "Biologie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences de Kénitra",
+        "program": "Sciences Fondamentales",
+        "specialty": "Géologie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences et Techniques de Kénitra",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences et Techniques de Kénitra",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences et Techniques de Kénitra",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences et Techniques de Kénitra",
+        "program": "Sciences et Techniques",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences et Techniques de Kénitra",
+        "program": "Sciences et Techniques",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Sciences et Techniques de Kénitra",
+        "program": "Sciences et Techniques",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Kénitra",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Sociologie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Kénitra",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Psychologie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Kénitra",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Histoire"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Kénitra",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Géographie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Kénitra",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Philosophie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté des Lettres et des Sciences Humaines de Kénitra",
+        "program": "Sciences Humaines et Sociales",
+        "specialty": "Langues et Littératures"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale des Sciences Appliquées de Kénitra",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale des Sciences Appliquées de Kénitra",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale des Sciences Appliquées de Kénitra",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale des Sciences Appliquées de Kénitra",
+        "program": "Sciences Appliquées",
+        "specialty": "Génie Civil"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale des Sciences Appliquées de Kénitra",
+        "program": "Sciences Appliquées",
+        "specialty": "Télécommunications"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale des Sciences Appliquées de Kénitra",
+        "program": "Sciences Appliquées",
+        "specialty": "Réseaux et Systèmes Informatiques"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale de Commerce et de Gestion de Kénitra",
+        "program": "Commerce et Gestion",
+        "specialty": "Management"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale de Commerce et de Gestion de Kénitra",
+        "program": "Commerce et Gestion",
+        "specialty": "Finance"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale de Commerce et de Gestion de Kénitra",
+        "program": "Commerce et Gestion",
+        "specialty": "Marketing"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale de Commerce et de Gestion de Kénitra",
+        "program": "Commerce et Gestion",
+        "specialty": "Comptabilité"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale de Commerce et de Gestion de Kénitra",
+        "program": "Commerce et Gestion",
+        "specialty": "Gestion des Ressources Humaines"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "École Nationale de Commerce et de Gestion de Kénitra",
+        "program": "Commerce et Gestion",
+        "specialty": "Logistique et Chaîne d'Approvisionnement"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté de Médecine et de Pharmacie de Kénitra",
+        "program": "Sciences de la Santé",
+        "specialty": "Médecine Générale"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté de Médecine et de Pharmacie de Kénitra",
+        "program": "Sciences de la Santé",
+        "specialty": "Pharmacie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté de Médecine et de Pharmacie de Kénitra",
+        "program": "Sciences de la Santé",
+        "specialty": "Dentisterie"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté de Médecine et de Pharmacie de Kénitra",
+        "program": "Sciences de la Santé",
+        "specialty": "Sciences Infirmières"
+    },
+    {
+        "university": "Université Ibn Tofail de Kénitra",
+        "faculty": "Faculté de Médecine et de Pharmacie de Kénitra",
+        "program": "Sciences de la Santé",
+        "specialty": "Kinésithérapie"
+    }
+]

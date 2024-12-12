@@ -6,7 +6,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="Assistant Universitaire",
+    page_title="orisup ",
     page_icon="img/logo_orisup.jpg",  
     layout="centered",
     initial_sidebar_state="auto"
@@ -30,7 +30,7 @@ st.title("Assistant d'Orientation Universitaire")
 
 nom = st.text_input("Nom de l'étudiant:")
 prenom = st.text_input("Prénom de l'étudiant:")
-age = st.number_input("Âge de l'étudiant:", min_value=18, max_value=100, step=1)
+age = st.number_input("Âge de l'étudiant:", min_value=15, max_value=100, step=1)
 domaine_etude = st.text_input("Domaine d'étude préféré:")
 niveau_etude = st.selectbox("Niveau d'étude:", ["Bac", "Licence", "Master", "Doctorat"])
 
@@ -63,7 +63,7 @@ if st.button("Obtenir une recommandation"):
                 }
             ],
             "generation_config": {
-                "temperature": 0.1
+                "temperature": 0.8
             }
         })
 
