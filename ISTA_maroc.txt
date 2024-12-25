@@ -1,0 +1,277 @@
+[
+    {
+        "ISTA": "ISTA Casablanca",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Casablanca",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Casablanca",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Casablanca",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Casablanca",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Rabat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Rabat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Rabat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Rabat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Rabat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Marrakech",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Marrakech",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Marrakech",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Marrakech",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Marrakech",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Fès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Fès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Fès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Fès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Fès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Tanger",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Tanger",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Tanger",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Tanger",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Tanger",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Meknès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Meknès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Meknès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Meknès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Meknès",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Oujda",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Oujda",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Oujda",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Oujda",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Oujda",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Agadir",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Agadir",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Agadir",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Agadir",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Agadir",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Tétouan",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Tétouan",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Tétouan",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Tétouan",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Tétouan",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Settat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Settat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Settat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Settat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Settat",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    },
+    {
+        "ISTA": "ISTA Kénitra",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Civil"
+    },
+    {
+        "ISTA": "ISTA Kénitra",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Électrique"
+    },
+    {
+        "ISTA": "ISTA Kénitra",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Mécanique"
+    },
+    {
+        "ISTA": "ISTA Kénitra",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie Informatique"
+    },
+    {
+        "ISTA": "ISTA Kénitra",
+        "program": "Diplôme de Technicien Supérieur",
+        "specialty": "Génie des Télécommunications"
+    }
+]http://0.0.2.2:3000/

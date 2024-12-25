@@ -4,75 +4,118 @@ import os
 from dotenv import load_dotenv
 import streamlit as st
 
-
+# Configuration de la page
 st.set_page_config(
-    page_title="Assistant Universitaire",
-    page_icon="img/logo_orisup.jpg",  
+    page_title="Assistant d'Orientation - Chatbot",
+    page_icon="logo_Orisup.jpg",
     layout="centered",
-    initial_sidebar_state="auto"
 )
+# Ajouter le logo en haut de la page
+st.image("logo_Orisup.jpg", width=150, caption="Orisup")
 
+
+# Chargement de la clé API depuis un fichier .env
 load_dotenv()
+api_key = os.getenv("API_KEY")
 
-api_key = os.environ.get("api_key")
-
+# URL de l'API
 url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}"
 
-headers = {
-  'Content-Type': 'application/json'
-}
+# Lecture des données des universités
+db = ""
+with open("data_university.txt", "r") as file:
+    university_data = file.read()
 
-with open("./data_university.txt", "r") as file:
-    data = file.read()
+db += university_data
 
+with open("ISTA_maroc.txt", "r") as file:
+    ista_data = file.read()
 
-st.title("Assistant d'Orientation Universitaire")
+db += ista_data
 
-nom = st.text_input("Nom de l'étudiant:")
-prenom = st.text_input("Prénom de l'étudiant:")
-age = st.number_input("Âge de l'étudiant:", min_value=18, max_value=100, step=1)
-domaine_etude = st.text_input("Domaine d'étude préféré:")
-niveau_etude = st.selectbox("Niveau d'étude:", ["Bac", "Licence", "Master", "Doctorat"])
+# Ajouter un style personnalisé pour l'arrière-plan
+st.markdown(
+    """
+    <style>
+    body {
+        background: linear-gradient(135deg, orange, blue);
+        color: white;
+        font-family: Arial, sans-serif;
+    }
+    div.stButton > button {
+        background-color: #00008B;
+        color: white;
+        border-radius: 5px;
+    }
+    div.stTextInput > div > input {
+        border: 2px solid #0056b3;
+        border-radius: 5px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
+# Titre de l'application
+st.title("💬 Chatbot - Assistant d'Orientation Universitaire")
 
-template = lambda prompt:  [
-        {
-          "text": f"""message system: Tu es un assistant et conseiller d'orientation des etudiants sur le choix de leur formation dans le reseau universitaire marocain. 
-          Tu extrais les informations personnelles et academiques de l'etudiant et lui proposer une bonne formation dans une université marocaine. Précis, concis, sarcastique et jovial pour les etudiant.
-          Cherche les informations sur les autres sources.
-          """
-        },
-        {
-          "text": f"""
-            prompt: Je suis {nom} {prenom}, j'ai {age} ans. Niveau d'etude: {niveau_etude}. Domaine preféré: {domaine_etude}. Ma question est: {prompt} .
-            données sur les universités: {data}
-            """
-        }
-      ]
+# Conteneur de discussion
+if "messages" not in st.session_state:
+    st.session_state.messages = [
+        {"role": "bot", "content": "Bienvenue ! Posez-moi votre question ou demandez des conseils d'orientation universitaire 😊."}
+    ]
 
-
-prompt = st.text_area("Votre question ou demande d'orientation:")
-
-if st.button("Obtenir une recommandation"):
-    if prompt and nom and prenom:
-
-        payload = json.dumps({
-            "contents": [
-                {
-                    "parts": template(prompt)
-                }
-            ],
-            "generation_config": {
-                "temperature": 0.1
-            }
-        })
-
-    
-        response = requests.request("POST", url, headers=headers, data=payload)
-        
-        if response.status_code == 200:
-            st.write(f"Chat: {response.json()['candidates'][0]['content']['parts'][0]['text']}")
+# Fonction pour afficher les messages
+def afficher_messages():
+    for message in st.session_state.messages:
+        if message["role"] == "user":
+            st.markdown(f"<div style='text-align: right; color: white; background-color: #0056b3; padding: 10px; border-radius: 10px; margin-bottom: 10px;'>{message['content']}</div>", unsafe_allow_html=True)
         else:
-            st.error("Erreur lors de la récupération des données.")
-    else:
-        st.warning("Veuillez remplir tous les champs nécessaires.")
+            st.markdown(f"<div style='text-align: left; color: white; background-color: #ff6600; padding: 10px; border-radius: 10px; margin-bottom: 10px;'>{message['content']}</div>", unsafe_allow_html=True)
+
+# Affichage des messages existants
+afficher_messages()
+
+# Entrée utilisateur
+user_input = st.text_input("Votre message :", key="user_input")
+
+# Si l'utilisateur envoie un message
+if st.button("Envoyer"):
+    if user_input.strip():
+        # Ajouter le message utilisateur à la discussion
+        st.session_state.messages.append({"role": "user", "content": user_input})
+
+        # Construire le prompt pour l'API
+        prompt = [
+            {
+                "text": """message system: Tu es OriSup assistant spécialisé en orientation universitaire pour le réseau des universités marocaines. 
+                Utilise les données disponibles et propose des suggestions précises et adaptées, avec un ton chaleureux et engageant. tu parles français, anglais, arabe et darija marocain."""
+            },
+            {
+                "text": f"prompt: {user_input}\nDonnées sur les universités: {db}"
+            }
+        ]
+
+        # Préparer la requête pour l'API
+        payload = json.dumps({
+            "contents": [{"parts": prompt}],
+            "generation_config": {"temperature": 0.5}
+        })
+        headers = {"Content-Type": "application/json"}
+
+        # Envoyer la requête à l'API
+        response = requests.post(url, headers=headers, data=payload)
+
+        if response.status_code == 200:
+            result = response.json()
+            response_text = result["candidates"][0]["content"]["parts"][0]["text"]
+
+            # Ajouter la réponse du chatbot à la discussion
+            st.session_state.messages.append({"role": "bot", "content": response_text})
+        else:
+            st.session_state.messages.append(
+                {"role": "bot", "content": "Désolé, je ne peux pas répondre pour le moment. Veuillez réessayer plus tard."}
+            )
+
+     
+

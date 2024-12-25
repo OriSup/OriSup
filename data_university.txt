@@ -6,7 +6,7 @@ ump university
         }
         licence-professionnelle:{}
         master:{}
-        Doctorant:{""}
+        Doctorant:{}
     ]
 
     Faculté des Sciences Juridiques, Économiques et Sociales:
