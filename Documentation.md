@@ -78,6 +78,12 @@ docker build -t orisup .
 docker run -p 8000:8000 orisup
 ```
 
+### 5. Utilisation avec Nom de domaine
+
+```bash
+python -m http.server 80
+```
+
 ---
 
 ## Développement
